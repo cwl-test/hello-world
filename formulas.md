@@ -1,3 +1,7 @@
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"</script>
+[Quick and Simple Inline](https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog)  
+[entity codes](https://dev.w3.org/html5/html-author/charref)  
+[Codes for Greek letters](https://www.keynotesupport.com/internet/special-characters-greek-letters-symbols.shtml)  
 
-$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+
